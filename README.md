@@ -1,3 +1,3 @@
 The Crawler
 
-scrapy runspider app.py -o output.json
+scrapy crawl ingredients -o output.json
